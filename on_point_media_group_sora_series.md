@@ -61,22 +61,27 @@
 
 ---
 
-## EPISODE 1: "THE IDEA"
+## EPISODE 1: "THE ALGORITHM"
 **Scene Type:** Origin - Flashback
-**Setting:** Dimly lit home office, multiple monitors glowing, late night
+**Setting:** High-tech home office, multiple monitors glowing, late night
 
 **[VISUAL DESCRIPTION]:**
-Modern minimalist home office. Blue light from six monitors illuminates the space. @ct_events2026 sits at desk, back to camera, typing rapidly. Camera slowly pushes in.
+High-tech modern home office. Blue light from six monitors illuminates the space. @ct_events2026 sits at desk, back to camera, working intensely. LEFT SCREEN: Real estate transaction completing - massive glass high-rise building, city's tallest, "PURCHASE CONFIRMED - $2.3B" flashes. CENTER SCREENS: AI algorithm running, scanning thousands of professional profiles, text reads "TRUST ANALYSIS: SCANNING..." RIGHT SCREEN: Corporate structure diagram for "On Point Media Group" with multiple divisions. The algorithm stops. A profile appears: MAYA SANTOS. @ct_events2026 leans in, intrigued. Camera slowly pushes in over his shoulder.
 
 **[AUDIO/DIALOGUE]:**
 
-[JASON (V.O.):]
-"They said AI would replace us. I said... AI would free us. Free me to build something they'd never see coming."
+[@ct_events2026 (V.O.):]
+"The building. The plan. But none of it works without the right person."
 
-*He turns to camera, slight smile*
+*Algorithm beeps. Maya's profile fills the center screen. He studies it.*
 
-[JASON:]
-"And they never did."
+[@ct_events2026:]
+"Maya Santos... what's your story?"
+
+*He clicks her profile. Slight smile.*
+
+[@ct_events2026 (V.O.):]
+"That's when everything changed."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
