@@ -90,25 +90,25 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 2: "THE FIRST HIRE"
-**Scene Type:** Origin - The Meeting
-**Setting:** Upscale coffee shop, afternoon, warm lighting
+## EPISODE 2: "THE SCREEN"
+**Scene Type:** Origin - Virtual Interview
+**Setting:** Split screen - Jason's home office / Maya's apartment
 
 **[VISUAL DESCRIPTION]:**
-Sunlit cafe, modern aesthetic. @ct_events2026 sits across from Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence. She studies a tablet.
+Split screen video call. LEFT: @ct_events2026 in high-tech home office, face partially shadowed, multiple monitors behind him. RIGHT: Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence sits at desk, laptop camera view.
 
 **[AUDIO/DIALOGUE]:**
 
-[MAYA:]
-"You want me to help you stay invisible... while building an empire?"
-
-[JASON:]
-"I want you to help me stay invisible... BECAUSE I'm building an empire."
-
-*She looks up, blue eyes sharp*
+[@ct_events2026:]
+"Ms. Santos. My algorithm selected you from three million candidates. Tell me... can you keep a secret?"
 
 [MAYA:]
-"When do I start?"
+*unflinching, blue eyes steady*
+"I've kept secrets that would destroy people. What's one more?"
+
+[@ct_events2026:]
+*leans forward, intrigued*
+"Interesting."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -117,28 +117,27 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 3: "THE STRUCTURE"
-**Scene Type:** Origin - Strategy
-**Setting:** Empty office floor, floor-to-ceiling windows, city skyline
+## EPISODE 3: "THE TEST"
+**Scene Type:** Origin - Virtual Interview Continues
+**Setting:** Same split screen video call
 
 **[VISUAL DESCRIPTION]:**
-Vast empty office space, polished concrete floors. @ct_events2026 walks slowly, gesturing at the space. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence walks beside him, taking notes.
+Same split screen video call continues. @ct_events2026 studies her reactions. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence answers with calm intensity.
 
 **[AUDIO/DIALOGUE]:**
 
-[JASON:]
-"Twelve divisions. None connected. All profitable. No one sees the whole board."
+[@ct_events2026:]
+"If I told you to lie to everyone you meet... for years... could you do it?"
 
 [MAYA:]
-"And you?
+"Depends. Is the lie protecting something worth protecting?"
 
-[JASON:]
-"I'm just the special advisor."
+[@ct_events2026:]
+*slight smile*
+"It's protecting everything."
 
-*He smiles*
-
-[JASON:]
-"Who advises... everyone."
+[MAYA:]
+"Then yes."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -147,23 +146,30 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 4: "THE HEADHUNTERS"
-**Scene Type:** Origin - Building the Machine
-**Setting:** Conference room, long table, files spread out
+## EPISODE 4: "THE SUMMONS"
+**Scene Type:** Origin - The Real Interview
+**Setting:** Same video call, final moment
 
 **[VISUAL DESCRIPTION]:**
-Sleek conference room. @ct_events2026 stands at head of table. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence sits, reviewing files. Three recruiters sit across from her.
+Video call. @ct_events2026 sits back, decision made. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence waits, composed.
 
 **[AUDIO/DIALOGUE]:**
 
-[MAYA:]
-"You find the talent. You report to me. You never ask who's at the top."
-
-[RECRUITER:]
-"But who do we say—"
+[@ct_events2026:]
+"Congratulations, Ms. Santos. You passed the first interview."
 
 [MAYA:]
-"You say the parent company handles executive matters. That's all anyone needs to know."
+"First?"
+
+[@ct_events2026:]
+"Tomorrow. Nine AM. A car will find you. Don't ask questions. Don't tell anyone."
+
+*He leans into camera*
+
+[@ct_events2026:]
+"The real interview begins then."
+
+*Call ends abruptly*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -172,25 +178,24 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 5: "THE FIRST DAY"
-**Scene Type:** Origin - Launch
-**Setting:** Bustling office lobby, employees entering, morning energy
+## EPISODE 5: "THE CAR"
+**Scene Type:** Origin - The Pickup
+**Setting:** City street, morning, Maya waiting at curb
 
 **[VISUAL DESCRIPTION]:**
-Modern corporate lobby, employees streaming in. @ct_events2026 walks through casually, coffee in hand, unnoticed. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence greets executives at the door.
+Upscale city street, morning light. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence checks phone, expecting Uber. A sleek black Grand Wagoneer pulls up. Tinted windows. Driver in suit exits, opens rear door.
 
 **[AUDIO/DIALOGUE]:**
 
-[EMPLOYEE (to another):]
-"Who's that guy?"
+[MAYA:]
+*confused*
+"I didn't order—"
 
-[EMPLOYEE 2:]
-"Some advisor, I think. Works with Maya."
+[DRIVER - MARCUS:]
+*professional, commanding*
+"Ms. Santos. I'm Marcus. Your ride has been upgraded. Please."
 
-*Camera follows Jason walking past, slight smile*
-
-[JASON (V.O.):]
-"Day one. And I was already invisible."
+*She hesitates, then enters. Door closes. Car pulls away smoothly.*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -199,26 +204,31 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 6: "THE GATEKEEPER"
-**Scene Type:** Day in the Life - Protection
-**Setting:** Executive floor hallway, outside corner office
+## EPISODE 6: "THE FOLDER"
+**Scene Type:** Origin - The Revelation
+**Setting:** Interior of Grand Wagoneer, moving through city
 
 **[VISUAL DESCRIPTION]:**
-Polished hallway. Executive in expensive suit approaches. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence blocks his path with a warm but firm smile.
+Luxurious interior of Grand Wagoneer. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence sits in back. A leather folder sits on seat beside her. Speaker crackles.
 
 **[AUDIO/DIALOGUE]:**
 
-[EXECUTIVE:]
-"I need to speak to the CEO directly. This deal is worth—"
+[@ct_events2026 (VOICE OVER SPEAKER):]
+"Ms. Santos. You didn't interview to be an assistant to a company manager."
 
 [MAYA:]
-*steps closer, commanding*
-"All communications go through proper channels. I'll ensure your proposal reaches the appropriate parties."
+*tenses*
+"Then what did I—"
 
-*She hands him her card, smile dangerous*
+[@ct_events2026 (V.O.):]
+"Open the folder."
+
+*She opens it. Her eyes widen. Documents, org charts, billions in assets.*
 
 [MAYA:]
-"I'm the channel."
+"Wait... you want me to do WHAT?"
+
+*Screen cuts to black*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -227,24 +237,26 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 7: "THE ADVISOR"
-**Scene Type:** Day in the Life - Hidden Power
-**Setting:** Board meeting, long table, executives seated
+## EPISODE 7: "THE TOWER"
+**Scene Type:** Origin - The Arrival
+**Setting:** Exterior - massive glass high-rise, midday
 
 **[VISUAL DESCRIPTION]:**
-Corporate boardroom. Executives in suits around table. @ct_events2026 sits mid-table, not at the head. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence stands by the door.
+Grand Wagoneer approaches the largest, most advanced glass skyscraper in the city. Midday sun reflects off the building. Construction crew on scaffolding installing massive "ON POINT MEDIA GROUP LLC" signage on exterior. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence stares through window, stunned.
 
 **[AUDIO/DIALOGUE]:**
 
-[BOARD MEMBER:]
-"The parent company wants us to expand into streaming. Thoughts?"
+[MAYA:]
+"This building... it's insane. It's bigger than anything I've ever seen."
 
-*All eyes eventually drift to Jason*
+[MARCUS (DRIVER):]
+*glances in rearview*
+"Bigger than anyone's ever seen. First of its kind. Anywhere in the world."
 
-[JASON:]
-"If I were advising... I'd say we've been in streaming for six months. You just didn't know it yet."
+*Car approaches private garage entrance*
 
-*Stunned silence. Maya suppresses a smile.*
+[MARCUS:]
+"Welcome to On Point, Ms. Santos."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -253,26 +265,27 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 8: "THE REDIRECT"
-**Scene Type:** Day in the Life - Maya's Tactics
-**Setting:** Office lounge, casual meeting area
+## EPISODE 8: "THE GARAGE"
+**Scene Type:** Origin - Entering the Empire
+**Setting:** Underground executive garage, high-tech
 
 **[VISUAL DESCRIPTION]:**
-Modern lounge area. Young ambitious employee approaches. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence sits on couch, legs crossed, reviewing tablet.
+Grand Wagoneer descends into ultra-modern underground garage. LED lighting, pristine floors, luxury vehicles lined up. Security checkpoints with biometric scanners. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence observes everything.
 
 **[AUDIO/DIALOGUE]:**
 
-[EMPLOYEE:]
-"Maya, I've been here two years. I've never even seen a photo of the CEO."
-
 [MAYA:]
-*looks up slowly, blue eyes piercing*
-"And that's why this company works. Ego doesn't run On Point. Results do."
+"How many levels does this go?"
 
-*She stands, walks past him*
+[MARCUS:]
+"Enough."
 
-[MAYA:]
-"Focus on your numbers. Not the org chart."
+*Car stops at private elevator bank. Marcus opens her door.*
+
+[MARCUS:]
+"Top floor. Someone will meet you."
+
+*Maya exits, looks up at the elevator. Deep breath.*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -281,27 +294,27 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 9: "THE LATE NIGHT"
-**Scene Type:** Day in the Life - Behind the Curtain
-**Setting:** Empty executive office, city lights through windows, night
+## EPISODE 9: "THE ELEVATOR"
+**Scene Type:** Origin - The Test Begins
+**Setting:** Massive glass elevator, rising through building
 
 **[VISUAL DESCRIPTION]:**
-Corner office at night, city glowing below. @ct_events2026 reviews documents at desk. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence enters with coffee, sets it down.
+Sleek glass elevator. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence enters, presses button. Doors begin to close. A hand stops them.
 
 **[AUDIO/DIALOGUE]:**
 
-[MAYA:]
-"Real estate division closed the Tokyo deal. Music just signed three platinum artists. You need sleep."
+[@ct_events2026:]
+*rushing in, youthful energy*
+"Hold the elevator! Thanks!"
 
-[JASON:]
-"Sleep is for people who aren't building empires."
+*He enters casually, presses top floor button (already lit). Turns to her with eager excitement.*
 
-[MAYA:]
-*smirks*
-"Even emperors rest, Jason."
+[@ct_events2026:]
+"Hey! What are you here for? Did you come to intern too?"
 
-[JASON:]
-"Not this one. Not yet."
+*Maya studies him. Remembers her instructions.*
+
+*Elevator rises. Scene fades before she answers.*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -310,28 +323,27 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 10: "THE QUESTION"
-**Scene Type:** Day in the Life - Close Call
-**Setting:** Elevator, two executives and Jason
+## EPISODE 10: "THE ANSWER"
+**Scene Type:** Origin - Trust Confirmed
+**Setting:** Same elevator, continuing to rise
 
 **[VISUAL DESCRIPTION]:**
-Modern glass elevator descending. @ct_events2026 stands casually. Two executives in conversation beside him, unaware.
+Glass elevator ascending, city sprawling below. @ct_events2026 watches Maya expectantly, playing eager intern. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence responds casually.
 
 **[AUDIO/DIALOGUE]:**
 
-[EXEC 1:]
-"You ever wonder who actually owns this place?"
+[MAYA:]
+*friendly, deflecting*
+"Oh yeah, I'm here to intern too. Marketing department, I think."
 
-[EXEC 2:]
-"Some tech billionaire supposedly. Through shell companies."
+*@ct_events2026's demeanor shifts instantly. Eager act drops. Voice becomes calm, professional, commanding.*
 
-[EXEC 1:]
-"Probably never even stepped foot in the building."
+[@ct_events2026:]
+"Great answer."
 
-*Jason stares forward, expressionless*
+*He presses a specific sequence on the elevator panel. A hidden button illuminates. He presses it.*
 
-[JASON (V.O.):]
-"I was standing right there. And they had no idea."
+*Maya's eyes widen.*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -340,23 +352,26 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 11: "THE NONPROFIT"
-**Scene Type:** Strategy - The Mission
-**Setting:** Community center, construction in progress
+## EPISODE 11: "THE PENTHOUSE"
+**Scene Type:** Origin - Above Everything
+**Setting:** Secret top floor, elevator opens
 
 **[VISUAL DESCRIPTION]:**
-Half-built community center. @ct_events2026 in casual clothes reviews blueprints. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, casual professional attire, confident posture, commanding presence beside him.
+Elevator doors open to reveal: Massive penthouse floor. Soaring ceilings, floor-to-ceiling windows overlooking entire city. Ultra-modern, high-tech aesthetic. @ct_events2026 steps out. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence follows, overwhelmed.
 
 **[AUDIO/DIALOGUE]:**
 
-[JASON:]
-"Money means nothing if it doesn't move the needle. This is why we build."
-
 [MAYA:]
-"Twenty community centers. Twelve cities. Zero press coverage."
+*looking around*
+"Why the test?"
 
-[JASON:]
-"Good. The work is the legacy. Not the headlines."
+[@ct_events2026:]
+"I had to be sure. Really sure. AI can be wrong, Maya. But I can't afford to be. Not about this."
+
+*He walks toward windows*
+
+[@ct_events2026:]
+"So I trusted my gut. It's never guided me wrong."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -365,26 +380,26 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 12: "THE INVESTOR"
-**Scene Type:** Strategy - Power Play
-**Setting:** Private dining room, upscale restaurant
+## EPISODE 12: "THE DOOR"
+**Scene Type:** Origin - Her Place
+**Setting:** Penthouse hallway, approaching a door
 
 **[VISUAL DESCRIPTION]:**
-Intimate private dining room. @ct_events2026 sits across from wealthy investor. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted elegant dress, confident posture, commanding presence sits beside Jason.
+Sleek hallway in penthouse level. @ct_events2026 walks ahead. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence follows. They stop at a door. Nameplate reads: "MAYA SANTOS - Special Assistant to the Board"
 
 **[AUDIO/DIALOGUE]:**
 
-[INVESTOR:]
-"I want to meet the man in charge. Not advisors."
-
 [MAYA:]
-*leans forward, smile sharp*
-"Mr. Roberts advises the parent company directly. His word is the CEO's word."
+*reading nameplate*
+"Special Assistant to the Board?"
 
-[JASON:]
-"Do we have a deal, or do we have a problem?"
+[@ct_events2026:]
+"Your official title. Your real job... is something else entirely."
 
-*Investor hesitates, then extends hand*
+*He opens the door. A stunning corner office awaits.*
+
+[@ct_events2026:]
+"After you."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -393,26 +408,23 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 13: "THE GROWTH"
-**Scene Type:** Strategy - Empire Building
-**Setting:** War room, multiple screens showing global operations
+## EPISODE 13: "THE QUESTION"
+**Scene Type:** Origin - The Proposition
+**Setting:** Maya's new office, floor-to-ceiling windows
 
 **[VISUAL DESCRIPTION]:**
-High-tech war room. Screens display charts, maps, live feeds. @ct_events2026 stands center, arms crossed. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence updates a digital board.
+Stunning corner office. City sprawls below. @ct_events2026 stands by window. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence faces him, arms crossed.
 
 **[AUDIO/DIALOGUE]:**
 
 [MAYA:]
-"Film division up forty percent. Tech patents approved. Legal just won three major cases."
+"So let me get this straight. You want me to help you hide your true role in this company... while you build an empire?"
 
-[JASON:]
-"And nobody connects the dots?"
+[@ct_events2026:]
+*turns to face her*
+"No, Maya. I want you to help me hide my true role... BECAUSE I'm building more than an empire."
 
-[MAYA:]
-"Separate entities. Separate leadership. One invisible thread."
-
-[JASON:]
-"Perfect."
+*He steps closer*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -421,110 +433,29 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 14: "THE JOURNALIST"
-**Scene Type:** Conflict - Threat
-**Setting:** Office lobby, journalist with notepad approaches
+## EPISODE 14: "THE VISION"
+**Scene Type:** Origin - The Dynasty
+**Setting:** Same office, continuation
 
 **[VISUAL DESCRIPTION]:**
-Busy lobby. Journalist approaches @ct_events2026. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence intercepts immediately.
+Same corner office. @ct_events2026 gestures at the city below. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence listens intently.
 
 **[AUDIO/DIALOGUE]:**
 
-[JOURNALIST:]
-"Mr. Roberts! Sources say you're more than an advisor. Care to comment?"
+[@ct_events2026:]
+"On Point will be unlike any other company. Within itself... a superpower. A true empire."
 
-[MAYA:]
-*steps between them*
-"Mr. Roberts doesn't do interviews. Press inquiries go through communications."
+*He pauses*
 
-[JASON:]
-*walking away, calm*
-"I just advise. Nothing more."
-
-*Maya's eyes track the journalist. Cold.*
-
-**[END CARD - 2 seconds]:**
-Black screen. White minimalist text fades in:
-"THE ORIGIN OF ON POINT MEDIA GROUP"
-Subtle bass tone.
-
----
-
-## EPISODE 15: "THE LOYALTY"
-**Scene Type:** Character - Maya's Dedication
-**Setting:** Private office, night, after a crisis
-
-**[VISUAL DESCRIPTION]:**
-Dim office. @ct_events2026 sits, exhausted. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence hands him a drink, sits across from him.
-
-**[AUDIO/DIALOGUE]:**
-
-[JASON:]
-"Why do you stay? You could run your own empire."
-
-[MAYA:]
-"Because you trusted me with your biggest secret before you trusted me with a paycheck."
-
-*She raises her glass*
-
-[MAYA:]
-"Loyalty isn't bought. It's earned."
-
-**[END CARD - 2 seconds]:**
-Black screen. White minimalist text fades in:
-"THE ORIGIN OF ON POINT MEDIA GROUP"
-Subtle bass tone.
-
----
-
-## EPISODE 16: "THE ACQUISITION"
-**Scene Type:** Growth - Major Move
-**Setting:** Signing room, lawyers, documents
-
-**[VISUAL DESCRIPTION]:**
-Formal signing room. Lawyers on both sides. @ct_events2026 signs documents casually. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence oversees.
-
-**[AUDIO/DIALOGUE]:**
-
-[LAWYER:]
-"With this signature, On Point acquires controlling interest in—"
-
-[JASON:]
-*signs*
-"I know what I'm buying."
-
-[MAYA:]
-*to lawyer*
-"This meeting never happened. Understood?"
-
-*Lawyer nods nervously*
-
-**[END CARD - 2 seconds]:**
-Black screen. White minimalist text fades in:
-"THE ORIGIN OF ON POINT MEDIA GROUP"
-Subtle bass tone.
-
----
-
-## EPISODE 17: "THE BALANCE"
-**Scene Type:** Philosophy - Jason's Mind
-**Setting:** Rooftop garden, sunrise, city below
-
-**[VISUAL DESCRIPTION]:**
-Rooftop garden. Golden sunrise light. @ct_events2026 stands at railing, overlooking city. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, casual elegant attire, confident posture, commanding presence joins him.
-
-**[AUDIO/DIALOGUE]:**
-
-[MAYA:]
-"You own half this skyline. Doesn't it ever feel... heavy?"
-
-[JASON:]
-"That's why no one knows. Power without ego. Wealth without worship."
+[@ct_events2026:]
+"Actually, no. A dynasty."
 
 *He turns to her*
 
-[JASON:]
-"The moment they see me... I lose everything."
+[@ct_events2026:]
+"So Maya... are you in?"
+
+*Scene fades*
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -533,28 +464,30 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 18: "THE CLOSE CALL"
-**Scene Type:** Tension - Almost Exposed
-**Setting:** Gala event, formal attire, crowded
+## EPISODE 15: "THE COMMITMENT"
+**Scene Type:** Origin - Partnership Sealed
+**Setting:** Same office, Maya's response
 
 **[VISUAL DESCRIPTION]:**
-Glamorous gala. Chandeliers, tuxedos, gowns. @ct_events2026 in classic tux mingles. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, stunning fitted gown, confident posture, commanding presence nearby. Tech mogul approaches Jason.
+Same corner office. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence meets @ct_events2026's gaze. A beat of silence. Then she uncrosses her arms.
 
 **[AUDIO/DIALOGUE]:**
 
-[TECH MOGUL:]
-"Roberts? Wait—weren't you at the Stanford AI summit in '18?"
+[MAYA:]
+*stepping forward*
+"A dynasty that no one knows exists. Run by a man no one knows is in charge."
 
-*Jason freezes momentarily*
+[@ct_events2026:]
+"Exactly."
 
 [MAYA:]
-*glides over, takes Jason's arm*
-"Mr. Roberts, your car is ready."
+*slight smile*
+"Where do we start?"
 
-*She guides him away smoothly*
+*@ct_events2026 smiles. Walks toward wall panel.*
 
-[JASON (V.O.):]
-"Too close."
+[@ct_events2026:]
+"I thought you'd never ask."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -563,28 +496,26 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 19: "THE LEGACY"
-**Scene Type:** Vision - The Future
-**Setting:** Empty boardroom, night, single light on Jason
+## EPISODE 16: "THE PANEL"
+**Scene Type:** Origin - The Secret
+**Setting:** Maya's office, hidden elevator revealed
 
 **[VISUAL DESCRIPTION]:**
-Dark boardroom. Single spotlight on @ct_events2026 at head of empty table. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence stands in doorway, silhouette.
+Same office. @ct_events2026 walks to seamless wall panel. Enters code on hidden keypad. Wall slides open revealing private elevator. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence watches in disbelief.
 
 **[AUDIO/DIALOGUE]:**
 
-[JASON:]
-"When I'm gone, this company keeps running. No face. No name. Just results."
-
 [MAYA:]
-"And me?"
+"A hidden elevator? In my office?"
 
-[JASON:]
-"You become what I am now. The invisible hand."
+[@ct_events2026:]
+*entering*
+"Your office is a gateway, Maya. To where the real work happens."
 
-*She steps into the light*
+*He gestures for her to enter*
 
-[MAYA:]
-"I'm ready."
+[@ct_events2026:]
+"Come. There's someone I want you to meet."
 
 **[END CARD - 2 seconds]:**
 Black screen. White minimalist text fades in:
@@ -593,30 +524,209 @@ Subtle bass tone.
 
 ---
 
-## EPISODE 20: "THE EMPIRE"
-**Scene Type:** Finale - Full Circle
-**Setting:** Montage ending in office, looking out at city
+## EPISODE 17: "THE SCAN"
+**Scene Type:** Origin - Palm Authorization
+**Setting:** Inside secret elevator
 
 **[VISUAL DESCRIPTION]:**
-MONTAGE: Quick cuts - employees working, deals closing, buildings rising, nonprofits helping. FINAL SHOT: @ct_events2026 and Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence stand side by side, looking out floor-to-ceiling windows at city.
+Sleek private elevator, ambient blue lighting. @ct_events2026 places palm on biometric scanner. It glows green. He turns to Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence.
 
 **[AUDIO/DIALOGUE]:**
 
-[JASON (V.O.):]
-"They'll never know my name. They'll never see my face. But everything they touch..."
+[@ct_events2026:]
+"Your turn."
 
-*Camera pulls back to reveal the massive scope of the office*
+[MAYA:]
+"My palm is already registered?"
 
-[JASON:]
-"...started right here. With a vision only two people believed in."
+[@ct_events2026:]
+"Since I found your profile. Place your hand."
 
-*Maya glances at him. They share a knowing look.*
+*She places palm. Scanner glows. A sophisticated AI voice speaks.*
+
+[A.L.E.R.I.A. (AI VOICE):]
+"Palm print accepted. Welcome, Maya."
+
+**[END CARD - 2 seconds]:**
+Black screen. White minimalist text fades in:
+"THE ORIGIN OF ON POINT MEDIA GROUP"
+Subtle bass tone.
+
+---
+
+## EPISODE 18: "A.L.E.R.I.A."
+**Scene Type:** Origin - The AI Revealed
+**Setting:** Secret elevator, descending
+
+**[VISUAL DESCRIPTION]:**
+Private elevator descending. Holographic interface illuminates. @ct_events2026 smiles proudly. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence stares at the holographic display in awe.
+
+**[AUDIO/DIALOGUE]:**
+
+[MAYA:]
+"What... what is this?"
+
+[@ct_events2026:]
+"Maya, meet A.L.E.R.I.A. Autonomous Learning Entity for Research, Intelligence, and Administration. My greatest achievement."
+
+[A.L.E.R.I.A.:]
+"Hello, Maya. I've analyzed your profile extensively. It's a pleasure to finally meet you."
+
+[MAYA:]
+*breathless*
+"You built... her?"
+
+**[END CARD - 2 seconds]:**
+Black screen. White minimalist text fades in:
+"THE ORIGIN OF ON POINT MEDIA GROUP"
+Subtle bass tone.
+
+---
+
+## EPISODE 19: "THE ACCESS"
+**Scene Type:** Origin - Authorized
+**Setting:** Elevator arriving at secret level
+
+**[VISUAL DESCRIPTION]:**
+Elevator slowing. @ct_events2026 stands ready. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence composes herself.
+
+**[AUDIO/DIALOGUE]:**
+
+[A.L.E.R.I.A.:]
+"Jason, shall I proceed to the office?"
+
+[@ct_events2026:]
+"Yes."
+
+[A.L.E.R.I.A.:]
+"Maya, I require your palm authorization. You and Jason are the only two individuals with access to this level."
+
+*Maya places palm. Scanner glows.*
+
+[A.L.E.R.I.A.:]
+"Authorization confirmed. Welcome to the Sanctuary."
+
+*Doors begin to open*
+
+**[END CARD - 2 seconds]:**
+Black screen. White minimalist text fades in:
+"THE ORIGIN OF ON POINT MEDIA GROUP"
+Subtle bass tone.
+
+---
+
+## EPISODE 20: "THE SANCTUARY"
+**Scene Type:** Origin - Jason's World
+**Setting:** Secret office - massive, high-tech, serene
+
+**[VISUAL DESCRIPTION]:**
+Elevator opens to breathtaking space: Jason's Sanctuary. Floor-to-ceiling windows, but tinted for privacy. Walls of holographic displays. Central command station. Living plants. Ambient lighting. Silent. Peaceful. Powerful. @ct_events2026 walks in. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence follows, speechless.
+
+**[AUDIO/DIALOGUE]:**
+
+[@ct_events2026:]
+"This is where I do the real work. Where the empire is actually run."
+
+[MAYA:]
+"It's... quiet."
+
+[@ct_events2026:]
+"By design. Solitude is where I think. Where I plan."
+
+*He turns to face her*
+
+**[END CARD - 2 seconds]:**
+Black screen. White minimalist text fades in:
+"THE ORIGIN OF ON POINT MEDIA GROUP"
+Subtle bass tone.
+
+---
+
+## EPISODE 21: "THE THRONE"
+**Scene Type:** Origin - The Command Center
+**Setting:** The Sanctuary, deeper exploration
+
+**[VISUAL DESCRIPTION]:**
+Inside the Sanctuary. @ct_events2026 approaches central command station - a curved desk surrounded by floating holographic displays showing global operations, news feeds, market data. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence walks alongside.
+
+**[AUDIO/DIALOGUE]:**
+
+[@ct_events2026:]
+"Every division. Every deal. Every decision. It flows through here."
+
+[A.L.E.R.I.A.:]
+"Currently monitoring 847 active operations across 12 divisions."
+
+[MAYA:]
+"And no one knows this room exists?"
+
+[@ct_events2026:]
+"Now two people do."
+
+**[END CARD - 2 seconds]:**
+Black screen. White minimalist text fades in:
+"THE ORIGIN OF ON POINT MEDIA GROUP"
+Subtle bass tone.
+
+---
+
+## EPISODE 22: "THE PEACE"
+**Scene Type:** Origin - Finding Stillness
+**Setting:** The Sanctuary - meditation area
+
+**[VISUAL DESCRIPTION]:**
+Corner of the Sanctuary. Japanese-inspired zen garden behind glass. Soft water feature sound. @ct_events2026 stands before it, peaceful. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence observes a different side of him.
+
+**[AUDIO/DIALOGUE]:**
+
+[MAYA:]
+"A zen garden? In your secret office?"
+
+[@ct_events2026:]
+"Empires aren't built by chaos, Maya. They're built by clarity. This is where I find mine."
+
+*He turns to her*
+
+[@ct_events2026:]
+"The world thinks the CEO is a mystery. The truth is... he's right here. At peace."
+
+**[END CARD - 2 seconds]:**
+Black screen. White minimalist text fades in:
+"THE ORIGIN OF ON POINT MEDIA GROUP"
+Subtle bass tone.
+
+---
+
+## EPISODE 23: "THE BEGINNING"
+**Scene Type:** Origin - Partnership Begins
+**Setting:** The Sanctuary - Jason and Maya side by side
+
+**[VISUAL DESCRIPTION]:**
+The Sanctuary. @ct_events2026 and Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, fitted professional attire, confident posture, commanding presence stand side by side, looking out at the holographic displays showing On Point Media Group's vast empire.
+
+**[AUDIO/DIALOGUE]:**
+
+[@ct_events2026:]
+"From this room, we build something the world has never seen. They'll feel its impact everywhere. But they'll never know it came from here."
+
+[MAYA:]
+"And my job is to make sure they never do."
+
+[@ct_events2026:]
+*smiles*
+"Now you understand."
+
+[A.L.E.R.I.A.:]
+"Shall I begin today's briefing?"
+
+[@ct_events2026 & MAYA (together):]
+"Yes."
 
 **[END CARD - 3 seconds]:**
 Black screen. White minimalist text fades in:
 "THE ORIGIN OF ON POINT MEDIA GROUP"
 Text transforms:
-"SEASON ONE"
+"SEASON ONE - THE BEGINNING"
 Subtle bass tone crescendos.
 
 ---
@@ -627,10 +737,24 @@ Subtle bass tone crescendos.
 1. **ALWAYS** use @ct_events2026 for Jason - never describe his physical appearance
 2. **ALWAYS** use the EXACT Maya description in every scene: "Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, [attire variation], confident posture, commanding presence"
 3. **ALWAYS** end with identical end card formatting
-4. **NEVER** exceed 35 words of dialogue per episode
+4. **NEVER** exceed 30 words of dialogue per episode (strict 12-second limit)
+
+## NEW CHARACTER: MARCUS (Driver/Security)
+**VISUAL DESCRIPTION (USE EXACTLY):**
+"Professional Black man, late 30s, muscular build, clean-shaven, tailored black suit, earpiece, commanding but respectful demeanor"
+**Role:** Jason's trusted driver and first layer of security
+**Appears in:** Episodes 5, 7, 8
+
+## NEW CHARACTER: A.L.E.R.I.A.
+**Full Name:** Autonomous Learning Entity for Research, Intelligence, and Administration
+**Voice:** Sophisticated, warm but precise female AI voice
+**Visual:** Holographic blue interface, ambient lighting
+**Role:** Jason's secret AI system that runs the Sanctuary and assists with empire operations
+**Appears in:** Episodes 17-23
 
 ## Attire Variations for Maya (use these exact phrases):
 - "fitted professional attire" (default office)
+- "smart casual attire" (video calls/home)
 - "casual professional attire" (casual office)
 - "casual elegant attire" (off-site casual)
 - "fitted elegant dress" (formal dinner)
@@ -644,25 +768,29 @@ Subtle bass tone crescendos.
 - Audio: Low bass tone (consistent across all episodes)
 - Duration: 2 seconds (3 seconds for finale)
 
-## Episode Timing Breakdown:
-- Visual establishment: 2-3 seconds
-- Dialogue/action: 8-10 seconds
+## Episode Timing Breakdown (12 seconds strict):
+- Visual establishment: 2 seconds
+- Dialogue/action: 8 seconds
 - End card: 2 seconds
-- Total: 12-15 seconds
+- Total: 12 seconds
 
 ---
 
-# PRODUCTION ORDER
+# PRODUCTION ORDER - SEASON ONE
 
-**Phase 1 - Origin (Episodes 1-5):** The beginning, first hire, structure, building the team, launch day
+**Phase 1 - The Algorithm (Episode 1):** Jason's search begins
 
-**Phase 2 - Day in the Life (Episodes 6-10):** How the deception works daily, Maya's protection, close calls
+**Phase 2 - The Virtual Interview (Episodes 2-4):** Testing Maya remotely, summoning her
 
-**Phase 3 - Strategy & Growth (Episodes 11-13):** Mission, power plays, empire expansion
+**Phase 3 - The Journey (Episodes 5-8):** The car, the folder, the arrival, the garage
 
-**Phase 4 - Conflict & Character (Episodes 14-16):** External threats, loyalty, major moves
+**Phase 4 - The Elevator Test (Episodes 9-10):** Trust verified through deception
 
-**Phase 5 - Philosophy & Finale (Episodes 17-20):** Jason's mindset, tension, legacy, full circle
+**Phase 5 - The Penthouse (Episodes 11-15):** Revealing the plan, the dynasty, commitment
+
+**Phase 6 - A.L.E.R.I.A. (Episodes 16-19):** Secret elevator, palm scans, AI introduction
+
+**Phase 7 - The Sanctuary (Episodes 20-23):** Jason's private world, the partnership begins
 
 ---
 
