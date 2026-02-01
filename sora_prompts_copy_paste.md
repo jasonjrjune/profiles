@@ -25,12 +25,13 @@ END CARD (2 seconds): Black screen. White minimalist text fades in: "THE ORIGIN 
 ## EPISODE 2: "THE SCREEN"
 
 ```
-VISUAL: Split screen video call. LEFT: @ct_events2026 in high-tech home office, face partially shadowed, multiple monitors behind him. RIGHT: Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence sits at desk, laptop camera view.
+VISUAL: Split screen video call. LEFT: Professional female headhunter, mid-40s, sleek blonde hair, corporate attire, neutral background - this is a digital avatar/deepfake. RIGHT: Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence sits at desk, laptop camera view, treating this as a normal recruitment call.
 
 AUDIO/DIALOGUE:
-[@ct_events2026:] "Ms. Santos. My algorithm selected you from three million candidates. Tell me... can you keep a secret?"
-[MAYA:] *unflinching, blue eyes steady* "I've kept secrets that would destroy people. What's one more?"
-[@ct_events2026:] *leans forward, intrigued* "Interesting."
+[HEADHUNTER (FEMALE VOICE):] "Ms. Santos. Our algorithm identified you from over three million candidates for an administrative position. Impressive resume."
+[MAYA:] *professional, composed* "Thank you. Which company is this for?"
+[HEADHUNTER:] "That information comes later. First... a question. Can you keep a secret?"
+*Maya pauses, intrigued by the unusual question*
 
 END CARD (2 seconds): Black screen. White minimalist text fades in: "THE ORIGIN OF ON POINT MEDIA GROUP" - Subtle bass tone.
 ```
@@ -40,12 +41,14 @@ END CARD (2 seconds): Black screen. White minimalist text fades in: "THE ORIGIN 
 ## EPISODE 3: "THE TEST"
 
 ```
-VISUAL: Same split screen video call continues. @ct_events2026 studies her reactions. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence answers with calm intensity.
+VISUAL: Same split screen video call continues. Professional female headhunter avatar maintains neutral expression. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence answers carefully, sensing something deeper.
 
 AUDIO/DIALOGUE:
-[@ct_events2026:] "If I told you to lie to everyone you meet... for years... could you do it?"
-[MAYA:] "Depends. Is the lie protecting something worth protecting?"
-[@ct_events2026:] *slight smile* "It's protecting everything."
+[MAYA:] "That's an unusual interview question."
+[HEADHUNTER (FEMALE VOICE):] "It's an unusual position. If your employer asked you to be... discreet. For years. Could you?"
+[MAYA:] *studying the screen* "Depends on what I'm being discreet about."
+[HEADHUNTER:] "Everything."
+*Maya holds the gaze of the avatar, unflinching*
 [MAYA:] "Then yes."
 
 END CARD (2 seconds): Black screen. White minimalist text fades in: "THE ORIGIN OF ON POINT MEDIA GROUP" - Subtle bass tone.
@@ -56,15 +59,16 @@ END CARD (2 seconds): Black screen. White minimalist text fades in: "THE ORIGIN 
 ## EPISODE 4: "THE SUMMONS"
 
 ```
-VISUAL: Video call. @ct_events2026 sits back, decision made. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence waits, composed.
+VISUAL: Video call. Professional female headhunter avatar sits back. Afro-Latina woman, early 30s, voluminous curly dark hair, athletic thick build, striking blue eyes, smart casual attire, confident posture, commanding presence waits, curious but composed.
 
 AUDIO/DIALOGUE:
-[@ct_events2026:] "Congratulations, Ms. Santos. You passed the first interview."
-[MAYA:] "First?"
-[@ct_events2026:] "Tomorrow. Nine AM. A car will find you. Don't ask questions. Don't tell anyone."
-*He leans into camera*
-[@ct_events2026:] "The real interview begins then."
-*Call ends abruptly*
+[HEADHUNTER (FEMALE VOICE):] "You've passed the initial screening, Ms. Santos. Tomorrow. Nine AM. A car will collect you."
+[MAYA:] "For what? I still don't know the company or the role—"
+[HEADHUNTER:] "You'll be briefed en route. Don't tell anyone about this call."
+*Maya frowns slightly*
+[MAYA:] "This isn't a normal interview process."
+[HEADHUNTER:] "No. It isn't."
+*Call ends abruptly. Maya stares at blank screen.*
 
 END CARD (2 seconds): Black screen. White minimalist text fades in: "THE ORIGIN OF ON POINT MEDIA GROUP" - Subtle bass tone.
 ```
