@@ -78,7 +78,7 @@ High-tech modern home office. Blue light from six monitors illuminates the space
 [@ct_events2026:]
 "Maya Santos... what's your story?"
 
-*He clicks her profile. Slight smile.*
+*He clicks her profile. Nods slowly, satisfied - this is the one.*
 
 [@ct_events2026 (V.O.):]
 "That's when everything changed."
