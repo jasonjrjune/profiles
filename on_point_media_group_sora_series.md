@@ -75,7 +75,7 @@ High-tech modern home office. Blue light from six monitors illuminates the space
 
 *Algorithm beeps. Maya's profile fills the center screen. He studies it.*
 
-[@ct_events2026:]
+[@ct_events2026 (V.O.):]
 "Maya Santos... what's your story?"
 
 *He clicks her profile. Nods slowly, satisfied - this is the one.*
